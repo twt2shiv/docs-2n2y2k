@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-luzspx.salamkita.shop/sitemap.xml
